@@ -1,0 +1,9 @@
+Package: BDWPkg
+Type: Package
+Title: BDW Personal Package
+Version: 1.0
+Date: 2016-01-14
+Authors@R: person("Brandon", Walest", role = c("aut", "cre"))
+Description: Series of useful functions
+License: GPL-3
+LazyData: TRUE
