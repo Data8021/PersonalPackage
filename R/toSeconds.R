@@ -4,7 +4,7 @@
 #' into seconds.
 #' @param x a character string of a time duration formatted HH:MM:SS, MM:SS or SS
 #' @return a character string of total seconds
-#' @author BDW
+#' @author B-W
 #' @details
 #' This function first tests that the input is a character string. Then it splits
 #' the string depending on whether the input includes minutes and hours. Finally
